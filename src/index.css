@@ -1,0 +1,23 @@
+@import "tailwindcss";
+@import "flowbite-react/plugin/tailwindcss";
+@source "../.flowbite-react/class-list.json";
+@theme {
+    --color-default: #F9E0C2;
+    --color-active:#A5431A;
+    --color-chestnut:#7B4127;
+    --color-malachite:#29DF32;
+    --color-malachite-active: #5DFC45;
+
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+#root, canvas{
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}

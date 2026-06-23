@@ -1,0 +1,12 @@
+.star{
+
+    font-family: 'Cascadia Code';
+    font-style: normal;
+    font-weight: 700;
+    white-space: nowrap;
+    background: linear-gradient(180deg, #f7f3a1 0%, #c7ab56 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+}
